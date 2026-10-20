@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Core/Core.csproj" />
+  <Project Path="doc-qa-ra/doc-qa-ra.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+</Solution>

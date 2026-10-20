@@ -1,0 +1,6 @@
+@doc_qa_ra_HostAddress = http://localhost:5089
+
+GET {{doc_qa_ra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
