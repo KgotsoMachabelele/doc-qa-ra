@@ -1,6 +1,6 @@
 @doc_qa_ra_HostAddress = http://localhost:5089
 
-GET {{doc_qa_ra_HostAddress}}/weatherforecast/
+GET {{doc_qa_ra_HostAddress}}/documents
 Accept: application/json
 
 ###

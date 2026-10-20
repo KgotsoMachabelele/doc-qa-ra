@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+# Local document uploads (temporary storage)
+doc-qa-ra/uploads/
